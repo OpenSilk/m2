@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opensilk.silkdagger</groupId>
+  <artifactId>libsilkdagger</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140611192129</lastUpdated>
+  </versioning>
+</metadata>
