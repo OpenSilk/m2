@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.gabrielemariotti.cards</groupId>
+  <artifactId>library</artifactId>
+  <version>1.7.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140708.010438</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140708010438</lastUpdated>
+  </versioning>
+</metadata>
