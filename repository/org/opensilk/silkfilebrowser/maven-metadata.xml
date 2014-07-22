@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opensilk</groupId>
+  <artifactId>silkfilebrowser</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140722154509</lastUpdated>
+  </versioning>
+</metadata>
