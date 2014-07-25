@@ -2,12 +2,12 @@
 <metadata>
   <groupId>org.opensilk</groupId>
   <artifactId>silkfilebrowser</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.1-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.1.0-SNAPSHOT</version>
-      <version>0.1.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20140725.200833</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20140725200833</lastUpdated>
   </versioning>
 </metadata>
