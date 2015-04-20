@@ -1,1 +1,5 @@
 Maven repo hosting modified builds of the open source libraries we use
+
+Commits are tagged with hash of commit they were built from
+If you can't find the repo in OpenSilk its probably on drewis github
+or it was just a rebuild or something from the upstream repo
