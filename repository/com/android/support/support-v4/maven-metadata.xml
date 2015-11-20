@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.android.support</groupId>
+  <artifactId>support-v4</artifactId>
+  <version>23.1.2-dev</version>
+  <versioning>
+    <versions>
+      <version>23.1.2-dev</version>
+      <version>23.1.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151120024608</lastUpdated>
+  </versioning>
+</metadata>
